@@ -1,16 +1,6 @@
-# tasktracker
+# Программ Хангамжийн Хөгжүүлэлт. Төсөл №3 
 
-A new Flutter project.
+Программ Хангамжийн хөгжүүлэлт хичээлийн гуравдах төсөл буюу мобайл хөгжүүлэх даалгаврын хүрээнд миний бие нь Flutter Framework дээр жижиг хэмжээний Мобайл аппликейшнийг амжилттай хөгжүүллээ.  
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Task Tracker App төслийг хэрэгжүүлсний үр дүнд Mobile төхөөрөмж дээрх хөгжүүлэлт болон Flutter platform –ийн талаар тодорхой анхан шатны мэдэгдэхүүнтэй болсон бөгөөд мобайл аппликейшний хөгжүүлэлтийн явцын талаар шинэ ур чадвар мэдэгдэхүүнийг амжилттай эзэмшсэн болно. 
